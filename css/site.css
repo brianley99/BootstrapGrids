@@ -8,3 +8,20 @@ main>.container {
     bottom: 0;
     width: 100%;
 }
+
+.homeBG {
+    width: 100%;
+    background: rgba(0, 0, 0, .6) url(/img/GridBG.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+}
+
+.homeText {
+    font-family: modesto-open-shadow, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(195, 255, 0);
+}
