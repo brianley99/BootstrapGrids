@@ -1,4 +1,4 @@
-main>.container {
+main .container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
 }
@@ -33,4 +33,8 @@ body> main {
 
 .minHeight {
     min-height: 80vh;
+}
+
+main .container-fluid {
+    padding-top: 60px;
 }
