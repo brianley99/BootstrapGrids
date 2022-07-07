@@ -9,6 +9,11 @@ main>.container {
     width: 100%;
 }
 
+body> main {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
 .homeBG {
     width: 100%;
     background: rgba(0, 0, 0, .6) url(/img/GridBG.png);
